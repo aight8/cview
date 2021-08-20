@@ -531,7 +531,7 @@ func TaggedStringWidth(text string) int {
 // BUG(tslocum) Text containing square brackets is not escaped properly.
 // Use TextView.SetWrapWidth where possible.
 //
-// Issue: https://code.rocketnine.space/tslocum/cview/issues/27
+// Issue: https://github.com/aight8/cview/issues/27
 func WordWrap(text string, width int) (lines []string) {
 	colorTagIndices, _, _, _, escapeIndices, strippedText, _ := decomposeText([]byte(text), true, false)
 

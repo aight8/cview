@@ -4,8 +4,8 @@ package main
 import (
 	"log"
 
-	"code.rocketnine.space/tslocum/cbind"
-	"code.rocketnine.space/tslocum/cview"
+	"github.com/aight8/cbind"
+	"github.com/aight8/cview"
 	"github.com/gdamore/tcell/v2"
 )
 

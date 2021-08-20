@@ -1,7 +1,7 @@
 // Demo code for the DropDown primitive.
 package main
 
-import "code.rocketnine.space/tslocum/cview"
+import "github.com/aight8/cview"
 
 func main() {
 	app := cview.NewApplication()

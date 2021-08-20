@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"code.rocketnine.space/tslocum/cview"
+	"github.com/aight8/cview"
 	"github.com/gdamore/tcell/v2"
 )
 

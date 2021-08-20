@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"code.rocketnine.space/tslocum/cview"
+	"github.com/aight8/cview"
 	"github.com/gdamore/tcell/v2"
 )
 
@@ -67,7 +67,7 @@ const textView2 = `[green]package[white] main
     [red]"strconv"[white]
 
     [red]"github.com/gdamore/tcell/v2"[white]
-    [red]"code.rocketnine.space/tslocum/cview"[white]
+    [red]"github.com/aight8/cview"[white]
 )
 
 [green]func[white] [yellow]main[white]() {

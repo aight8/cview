@@ -71,7 +71,7 @@ EventKeys. It also translates between EventKeys and human-readable strings such
 as "Alt+Enter". This makes it possible to store keybindings in a configuration
 file.
 
-cbind: https://code.rocketnine.space/tslocum/cbind
+cbind: https://github.com/aight8/cbind
 
 Bracketed Paste Mode
 
@@ -195,7 +195,7 @@ containing the text "Hello, world!":
   package main
 
   import (
-    "code.rocketnine.space/tslocum/cview"
+    "github.com/aight8/cview"
   )
 
   func main() {

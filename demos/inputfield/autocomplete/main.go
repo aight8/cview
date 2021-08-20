@@ -3,7 +3,7 @@ package main
 import (
 	"strings"
 
-	"code.rocketnine.space/tslocum/cview"
+	"github.com/aight8/cview"
 	"github.com/gdamore/tcell/v2"
 )
 

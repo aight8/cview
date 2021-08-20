@@ -5,11 +5,11 @@ suggestions and patches.
 
 Please include as much relevant information as possible.
 
-Review project [documentation](https://docs.rocketnine.space/code.rocketnine.space/tslocum/cview)
+Review project [documentation](https://docs.rocketnine.space/github.com/aight8/cview)
 before submitting an issue.
 
-Share issues and suggestions on the [issue tracker](https://code.rocketnine.space/tslocum/cview/issues).
+Share issues and suggestions on the [issue tracker](https://github.com/aight8/cview/issues).
 
 # Patches (pull requests)
 
-Submit patches as [pull requests](https://code.rocketnine.space/tslocum/cview/pulls).
+Submit patches as [pull requests](https://github.com/aight8/cview/pulls).

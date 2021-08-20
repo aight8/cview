@@ -1,7 +1,7 @@
 package cview
 
 import (
-	"code.rocketnine.space/tslocum/cbind"
+	"github.com/aight8/cbind"
 	"github.com/gdamore/tcell/v2"
 )
 
