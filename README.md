@@ -1,6 +1,4 @@
 # cview - Terminal-based user interface toolkit
-[![GoDoc](https://github.com/aight8/godoc-static/raw/branch/master/badge.svg)](https://docs.rocketnine.space/github.com/aight8/cview)
-[![Donate](https://img.shields.io/liberapay/receives/rocketnine.space.svg?logo=liberapay)](https://liberapay.com/rocketnine.space)
 
 This package is a fork of [tview](https://github.com/rivo/tview).
 See [FORK.md](https://github.com/aight8/cview/src/branch/master/FORK.md) for more information.
